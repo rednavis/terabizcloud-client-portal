@@ -1,7 +1,8 @@
 {
   "generator-jhipster": {
     "promptValues": {
-      "packageName": "com.terabiz.client"
+      "packageName": "com.terabiz.client",
+      "microservicePath": "../terabizcloud-core"
     },
     "jhipsterVersion": "6.6.0",
     "applicationType": "gateway",
